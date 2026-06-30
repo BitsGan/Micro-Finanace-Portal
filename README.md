@@ -231,12 +231,8 @@ Passwords are hashed using SHA-256 algorithm before storing in the database.
 ## Support
 
 For any issues or queries, please contact:
-- Email: support@sangamfinance.com
-- Phone: +91 9876543210
+- Email: ganeshadigoppula30@gmail.com
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
